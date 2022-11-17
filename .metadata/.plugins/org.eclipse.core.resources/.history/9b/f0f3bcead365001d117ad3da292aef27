@@ -1,0 +1,8 @@
+package fundosinvestimentos.fundosinvestimentos.entities;
+
+public class rentabilidadePorPeríodo {
+	
+	private Date inicial;
+	private 
+
+}

@@ -1,0 +1,13 @@
+package fundosinvestimentos.fundosinvestimentos.entities;
+
+import java.util.List;
+
+public class Fundos {
+	
+	private Double fundos;
+	private Double codigo_fundo;
+	private String nome_fundo;
+	private 
+
+	
+}

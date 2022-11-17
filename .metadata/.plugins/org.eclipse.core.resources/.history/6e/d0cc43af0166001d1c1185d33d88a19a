@@ -1,0 +1,9 @@
+package percentualRentabilidade.entities;
+
+public class Percentual {
+	
+	private Double vci;
+	private Double vcf;
+	private Double percentual;
+
+}

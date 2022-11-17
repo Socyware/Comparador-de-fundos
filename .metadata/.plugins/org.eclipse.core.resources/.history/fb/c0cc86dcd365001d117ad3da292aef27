@@ -1,0 +1,5 @@
+package fundosinvestimentos.fundosinvestimentos.entities;
+
+public class rentabilidadeDiario {
+
+}
